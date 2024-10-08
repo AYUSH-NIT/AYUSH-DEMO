@@ -1,2 +1,4 @@
 # AYUSH-DEMO
-My first Git Repository
+This is my first Git Repository.
+college-mnnit
+
